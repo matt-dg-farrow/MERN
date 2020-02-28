@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<body>
+  <div>
+    <div>
+      <div>
+        <input />
+        <button>
+          SEARCH
+        </button>
+      </div>
+    </div>
+  </div>
+</body>
+`;
